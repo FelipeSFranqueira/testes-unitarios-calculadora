@@ -10,9 +10,13 @@ daquela operação.
 As classes das operações tem o nome da operação e um unico método publico 
 que realiza o cálculo e retorna um valor do tipo int. Segue o exemplo da classe `Soma`
 
+<img width="320" src="src/img/Soma.png"/>
 
 ## Classes dos Teste
 As classes de testes são onde são feitos os testes dos metodos das classes das
 operações, cada operação tem a sua classe de testes. Segue o exemplo da classe `SomaTestes`
+
+<img src="src/img/SomaTestes.png"/>
+
 
 ## Ultima atulização 20/09/2023
