@@ -8,16 +8,23 @@ com possíveis casos previstos daquela operação.
 
 ## Classes das Operações
 As classes das operações tem o nome da operação e um unico método publico
-que realiza o cálculo e retorna um valor do tipo int. Segue o exemplo da classe `Soma`
+que realiza o cálculo e retorna um valor do tipo int. Todas as classes das operações 
+foram documentadas utilizando JavaDoc. Segue o exemplo da classe `Soma`
 
-<img width="420" src="src/img/Soma.png"/>
+<img src="src/img/Soma.png"/>
 
 ## Classes dos Teste com JUnit
 As classes de testes são onde são feitos os testes automatizados, utilizando JUnit,
 dos metodos das classes das operações, cada operação tem a sua classe de testes. 
 Segue o exemplo da classe `SomaJunitTest`
 
-<img width="570" src="src/img/SomaJunitTest.png"/>
+<img src="src/img/SomaJunitTest.png"/>
 
+## Documentação
+Abaixo está algumas imagens mostrando a página da documentação
 
-## Ultima atulização 20/09/2023
+<img src="src/img/Doc1.png"/>
+<img src="src/img/Doc2.png"/>
+<img src="src/img/Doc3.png"/>
+
+## Ultima atulização 07/11/2023
